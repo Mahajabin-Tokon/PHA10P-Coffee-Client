@@ -5,6 +5,7 @@ import { useState } from "react";
 import Header from "./components/Header";
 import { BsCup } from "react-icons/bs";
 import Instagram from "./components/Instagram";
+import Footer from "./components/Footer";
 
 function App() {
   const loadedCoffees = useLoaderData();

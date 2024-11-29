@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "../assets/more/logo1.png";
-import icon1 from "../assets/icons/1.png";
+
+import icon1 from "../assets/icons/1.png";import logo from "../assets/more/logo1.png";
 import icon2 from "../assets/icons/2.png";
 import icon3 from "../assets/icons/3.png";
 import icon4 from "../assets/icons/4.png";
