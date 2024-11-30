@@ -1,6 +1,7 @@
 import React from "react";
 
-import icon1 from "../assets/icons/1.png";import logo from "../assets/more/logo1.png";
+import icon1 from "../assets/icons/1.png";
+import logo from "../assets/more/logo1.png";
 import icon2 from "../assets/icons/2.png";
 import icon3 from "../assets/icons/3.png";
 import icon4 from "../assets/icons/4.png";
@@ -52,9 +53,7 @@ const Header = () => {
           </div>
           <div className="p-5">
             <img src={icon3} alt="Icon" />
-            <h4 className="font-rancho text-2xl text-[#331A15]">
-              Pure Grade
-            </h4>
+            <h4 className="font-rancho text-2xl text-[#331A15]">Pure Grade</h4>
             <p className="text-[#331A15] font-thin">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
               vel.
